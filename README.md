@@ -6,7 +6,7 @@ The project demonstrates clean UI design, navigation, and basic interactivity.
 ---
 
 ## 🌐 Live Demo  
-👉 View Website https://tayyab054.github.io/Old-and-new-window-retailer-website-html-Css/
+👉 View Website https://tayyab054.github.io/Door-Ecommerce-website/
 ---
 
 ## 📸 Preview  
